@@ -14,7 +14,7 @@
 
 	function addTools() {
 		var s = document.createElement('script');
-		s.src = 'https://kk808.github.io/kk/tools/toolkit/index.js';
+		s.src = 'https://kk808.github.io/notes/tools/toolkit/index.js';
 		document.head.appendChild(s);
 	}
 

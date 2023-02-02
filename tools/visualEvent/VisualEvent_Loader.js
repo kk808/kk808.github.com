@@ -124,12 +124,12 @@ VisualEvent_Loader.prototype = {
 		/* Load the required files - note that the token ///debug/VisualEvent-1395890664 is replaced by the build
 		 * script with the location of the combined Visual Event file (i.e. with the parsers included
 		 */
-		this._loadFile('https://kk808.github.io/kk/tools/visualEvent/VisualEvent.css', 'css' );
+		this._loadFile('https://kk808.github.io/notes/tools/visualEvent/VisualEvent.css', 'css' );
 		if ( typeof jQuery == 'undefined' ) {
-			this._loadFile('https://kk808.github.io/kk/tools/visualEvent/VisualEvent-jQuery.js', 'js' );
+			this._loadFile('https://kk808.github.io/notes/tools/visualEvent/VisualEvent-jQuery.js', 'js' );
 		}
 		else {
-			this._loadFile('https://kk808.github.io/kk/tools/visualEvent/VisualEvent.js', 'js' );
+			this._loadFile('https://kk808.github.io/notes/tools/visualEvent/VisualEvent.js', 'js' );
 		}
 	},
 

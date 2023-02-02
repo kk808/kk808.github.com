@@ -118,7 +118,7 @@ wh.visualEvent = function(){
     }
   } 
   else {
-	  wh.addScript('//kk808.github.io/kk/tools/visualEvent/VisualEvent_Loader.js');
+	  wh.addScript('//kk808.github.io/notes/tools/visualEvent/VisualEvent_Loader.js');
   }
 };
 
