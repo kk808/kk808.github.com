@@ -37,6 +37,7 @@
 			setTimeout(addResources, 1000);
 		}
 		else{
+			// add additional resources
 			addStyle('https://kk808.github.io/kk/tools/toolkit/styles.css');
 			addScript('//cdnjs.cloudflare.com/ajax/libs/Base64/0.3.0/base64.js');
 			addScript('https://kk808.github.io/kk/tools/toolkit/common.js');
